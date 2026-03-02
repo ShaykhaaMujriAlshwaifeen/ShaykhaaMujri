@@ -1,10 +1,5 @@
-# 💎 Hi, I'm Shaykhaa Alshwaifeen
-<p align="center">
-<img width="200" height="200" alt="kathryn" src="https://github.com/user-attachments/assets/28a64ba1-a102-417d-be85-01527eabb514" />
-</p>
+# 💎 Hi, I'm Shaykhaa Mujri Alshwaifeen
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Software+Developer;Data-Driven+Intelligence;Specialist+Member+at+SCE" />
 </p>
 
 ![photo_2026-02-25_17-08-00](https://github.com/user-attachments/assets/a93b9268-c284-498f-942e-859abd5c9ad9)
