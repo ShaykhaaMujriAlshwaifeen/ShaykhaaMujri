@@ -1,4 +1,4 @@
-# Shaykhaa Alshwaifeen
+# Shaykhaa Mujri Alshwaifeen
 **AI-Driven Data Analyst | Intelligent Systems Developer**
 
 Microsoft Certified (PL-300, AI-900) · AI Patent Holder · SCE Specialist Member  
