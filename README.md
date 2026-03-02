@@ -1,9 +1,9 @@
 <h1 align="center">💎 Hi, I'm Shaykhaa Alshwaifeen</h1> 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Data+Analyst;AI+Software+Developer;Data-Driven+Intelligence;Specialist+Member+at+SCE" />
 </p>
 
-<p align="center"><b>AI-Driven Data Analyst | Intelligent Systems Developer</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PL--300-Microsoft%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
