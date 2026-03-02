@@ -2,7 +2,7 @@
 
 </p>
 
-![photo_2026-02-25_17-08-00](https://github.com/user-attachments/assets/a93b9268-c284-498f-942e-859abd5c9ad9)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PL--300-Microsoft%20Certified-007BFF?style=for-the-badge&logo=microsoft&logoColor=white" />
