@@ -1,4 +1,4 @@
-<h1 align="center">Shaykhaa Alshwaifeen</h1>
+<h1 align="center">💎 Hi, I'm Shaykhaa Alshwaifeen</h1>
 <p align="center"><b>AI-Driven Data Analyst | Intelligent Systems Developer</b></p>
 
 <p align="center">
