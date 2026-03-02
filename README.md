@@ -12,11 +12,14 @@
   <img src="https://img.shields.io/badge/SCE-Specialist%20Member-1F4E79?style=for-the-badge"/>
 </p>
 
-<p align="center">
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a> 
+  <p> 
   <a href="https://www.linkedin.com/in/shaykhaamujrialshwaifeen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-</p>
   <a href="https://github.com/ShaykhaaMujriAlshwaifeen">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white"/>
   </a>
